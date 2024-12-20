@@ -1,0 +1,8 @@
+PySimpleGUI
+selenium
+undetected-chromedriver
+Pillow
+opencv-python
+numpy
+wget
+ffmpeg-python
